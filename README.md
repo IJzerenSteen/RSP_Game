@@ -1,2 +1,2 @@
 # RSP_Game
-Rock Scissor Paper Game  
+Rock Scissors Paper Game  
